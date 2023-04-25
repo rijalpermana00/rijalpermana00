@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rijalpermana00
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Vue.Js, Adonis Js
+- 🌱 I’m currently learning Nest.js, Next.js, React.js, Go Lang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
