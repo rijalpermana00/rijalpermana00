@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @rijalpermana00
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Nest.js, Next.js, React.js, Go Lang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Nest.js, Next.js, React.js, and GoLang
 
 <!---
 rijalpermana00/rijalpermana00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
